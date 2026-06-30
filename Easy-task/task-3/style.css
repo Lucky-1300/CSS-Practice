@@ -1,0 +1,17 @@
+*{
+    background-color: aliceblue;
+}
+
+h1{
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(48, 164, 125);
+    font-weight: bold;
+    margin-right: 20px;
+    padding: 10px;
+}
+
+
