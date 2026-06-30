@@ -1,0 +1,24 @@
+*{
+    background: rgb(233, 226, 226);
+}
+
+
+#heading{
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    color: green;
+    font-size: 20px;
+
+}
+h2{
+    color: blue;
+}
+.thankyou{
+    text-align: center;
+    color: green;
+    font-weight: bold;
+
+}
